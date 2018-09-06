@@ -1,11 +1,7 @@
 # processing-challanges
-This repo contain some challenges  
-## Getting startted
-Instructions on how to get a copy of these simple projects and make them run on your local machine
-### Perequisties
--- under progress
+This repo contain some challenges built using processing library
 ### Installing
--- under progress
+- have [processing IDE](https://processing.org/download/) installed run file.pde
 ## Built with
 - Processing library : a library built on top of java 
 - Java programming languages
